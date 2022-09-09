@@ -10,6 +10,8 @@
 */
 
 nextflow.enable.dsl = 2 // haciendo un cambio //hago otro comentario
+// comentario para probar ATOM
+//otro comentario
 
 /*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
